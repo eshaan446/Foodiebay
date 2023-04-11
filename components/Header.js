@@ -25,7 +25,7 @@ const Logo = () => {
             className="bg-red-500 text-white p-4 text-xs sm:text-lg rounded font-bold"
             href={recipeID ? `/types/${currentArea}` : "/types"}
           >
-            Back to {recipeID ? `${currentArea} recipes` : "recipe types"}
+            Go Back
           </Link>
         </div>
       )}
