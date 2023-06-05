@@ -3,7 +3,7 @@ import Header from '@/components/Header'
 import Image from 'next/image'
 
 export const metadata = {
-  title: 'Recipe Finder',
+  title: 'FoodXpress- A guide to international cuisines',
   description: 'Created By Eshaan',
 }
 

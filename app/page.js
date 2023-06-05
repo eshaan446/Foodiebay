@@ -13,7 +13,7 @@ export default async function Home() {
             className="shadow-gray-50 bg-slate-400 rounded text-xl py-2 px-4 cursor-pointer hover:bg-red-700 hover:text-white"
             href="/types"
           >
-            List of Cuisines
+            Explore Cuisines
           </Link>
         </div>
       </div>
